@@ -1,0 +1,6 @@
+{
+  "appId": "com.percentage.android",
+  "appName": "percentage",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

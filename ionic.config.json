@@ -1,0 +1,7 @@
+{
+  "name": "percentage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
