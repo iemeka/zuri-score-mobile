@@ -2,26 +2,8 @@
 
 
 
-Requirements :
-- Existing react app
-- Ionic
-- Android Studio
-- VsCode for android or xcode for IOS
 
-Steps:
-in the root directory :
-1. create a capacitor.config.json file (link)
-2. create a ionic.config.json  (link)
-3. build our react project. "npm run build"
-4. install Iconic , Capacitor core , Capacitor CLI
-For Android:
-5. Create an android app with the existing react app. - ionic capacitor add android
-6. Open the android project in the Android Studio.
-   To see the app running:
-    - create a Virtual Device
-    - Use a physical Device (your phone). Enable "USB debugging"
-7. Build an Android Application Package file. The apk file can be used to install he app on any Android device. 
-Please find the link to the apk file here.
-For iOS: Similar process with the use Xcode.
+
+
 
 
