@@ -3,16 +3,17 @@
 
 
 Here's a react web application : https://iemeka.github.io/zuri-score/
+
 Here's the Android Application Package file (after Converting the react app) : https://github.com/iemeka/zuri-score-mobile/blob/master/apk/debug/app-debug.apk
 
-Requirements :
+### Requirements :
 - Existing react app
 - Ionic
 - Android Studio
 - xcode for IOS
 
-Steps:
-in the root directory :
+### Steps:
+In the root directory :
 1. create a capacitor.config.json file (link : https://github.com/iemeka/zuri-score-mobile/blob/master/capacitor.config.json)
 2. create a ionic.config.json  (link : https://github.com/iemeka/zuri-score-mobile/blob/master/ionic.config.json)
 3. build the react project. "npm run build"
