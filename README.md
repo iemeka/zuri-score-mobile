@@ -5,8 +5,7 @@
 - Here's a react web application : https://iemeka.github.io/zuri-score/
 
 - Here's the Android Application Package file (after Converting the react app) : https://github.com/iemeka/zuri-score-mobile/blob/master/apk
-  - open the above link
-  - click on the download button to download
+
 
 ### Requirements :
 - Existing react app
