@@ -6,7 +6,6 @@
 
 - Here's the Android Application Package file (after Converting the react app) : https://github.com/iemeka/zuri-score-mobile/blob/master/apk
 
-
 ### Requirements :
 - Existing react app
 - Ionic
